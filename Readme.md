@@ -1,4 +1,3 @@
-```markdown
 # Library Management System Backend
 
 This is the backend layer of the Library Management System, implemented using FastAPI and MongoDB.
@@ -54,6 +53,3 @@ You can access the API documentation (Swagger UI) at `http://127.0.0.1:8000/docs
 ## CORS Configuration
 
 By default, CORS is enabled to accept requests from all origins. You can adjust CORS configuration in `main.py` as needed.
-
-
-```
